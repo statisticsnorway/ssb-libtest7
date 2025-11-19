@@ -1,6 +1,6 @@
 [project]
 name = "ssb-libtest7"
-version = "0.0.0"
+version = "0.0.1"
 description = "SSB Libtest7"
 authors = [{ name = "Henrik Bråthen", email = "bhe@ssb.no" }]
 maintainers = [{ name = "Statistics Norway, Energy, environmental and transport statistics Department (425)" }]
