@@ -1,0 +1,25 @@
+{
+  "_commit": "9e3c49f6680d4c400567c39d70b768f0a322c95e",
+  "_copy_without_render": [
+    "*.rst_t"
+  ],
+  "_jinja2_env_vars": {
+    "lstrip_blocks": true,
+    "trim_blocks": true
+  },
+  "_template": "https://github.com/statisticsnorway/ssb-pypitemplate.git",
+  "author": "Henrik Br\u00e5then",
+  "code_quality_level": "Medium",
+  "copyright_owner": "Statistics Norway",
+  "copyright_year": "2025",
+  "department_number": "425",
+  "dependency_manager_tool": "poetry",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "bhe@ssb.no",
+  "friendly_name": "SSB Libtest7",
+  "github_organization": "statisticsnorway",
+  "license": "MIT",
+  "package_name": "ssb_libtest7",
+  "project_name": "ssb-libtest7",
+  "version": "0.0.0"
+}
